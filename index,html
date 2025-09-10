@@ -1,0 +1,19 @@
+<! DOCTYPE html>
+chtml lang="pt-BR"›
+<head>
+‹meta charset="UTF-8">
+«title›Meu Site Django (Simulado)</title>
+‹style>
+body { font-family: Arial, sans-serif; text-align: center; margin: 40px; }
+nav a { margin: 10px; text-decoration: none; color: blue; }
+</style>
+</head>
+«body>
+<h1>®️ Página Inicial</h1>
+‹p»Bem-vindo ao meu primeiro "site Django simulado" !</p>
+‹nav>
+‹a href="index.html">Home</a>
+‹a href="sobre.html">Sobre</a>
+</ nav>
+</body>
+</html>
